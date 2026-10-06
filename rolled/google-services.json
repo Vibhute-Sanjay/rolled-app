@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1083639611197",
+    "project_id": "rolled-app",
+    "storage_bucket": "rolled-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083639611197:android:7e36b8fc742fa37e12cf54",
+        "android_client_info": {
+          "package_name": "com.rolled.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWLaitT35j29GLSMFQNZI_Qz7cuslZsAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
